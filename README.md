@@ -44,7 +44,7 @@ This project provides two versions of a PowerShell script to ship logs from Cisc
 
 ### 🚀 One-Click Azure Deployment
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Flukesteward%2FCiscoUmbrella-to-Huntress-HEC%2Fmain%2Fdeployments%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FLukeSteward%2FCiscoUmbrella-to-Huntress-HEC%2Frefs%2Fheads%2Fmain%2Fdeployments%2Fazuredeploy.json)
 
 
 The deployment will prompt you for:
