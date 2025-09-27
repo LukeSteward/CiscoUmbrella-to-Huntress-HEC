@@ -1,0 +1,24 @@
+# Exclude standalone script from Azure Functions deployment
+../CiscoUmbrellaToHEC-Standalone.ps1
+
+# Exclude documentation files
+../AzureFunction-SetupGuide.md
+../README.md
+
+# Exclude state files
+../last_run_state.json
+
+# Exclude any backup files
+*.backup
+*.bak
+*.tmp
+
+# Exclude IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Exclude OS files
+.DS_Store
+Thumbs.db
